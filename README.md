@@ -368,5 +368,7 @@ git help
 git help <command>
 ```
 
+Jon Mercer
+
 
 DAVID BALDWIN
